@@ -1,0 +1,11 @@
+# Ignore db
+db.sqlite3
+
+# Ignore .idea/ folder
+.idea/
+
+# Ignore viatt/__pycache__/ folder
+viatt/__pycache__/
+
+# Ignore __pycache__/*.pyc files
+*.pyc
